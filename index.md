@@ -1,12 +1,39 @@
 # Privacy Policy — Bento Grid: Kawaii Kitchen
 
-**Last updated:** July 20, 2026
+**Last updated:** October 24, 2026
 
 This Privacy Policy describes how Bento Grid: Kawaii Kitchen ("the App", "we", "us") handles information when you use the App.
 
 ## Summary
 
 The App does not require an account and does not collect or store any personally identifiable information on our own servers. Your game progress (coins, stars, unlocked levels, selected palette) is saved locally on your device. The App does use third-party services — described below — that may collect limited technical data, including for advertising purposes.
+
+## Information We Collect and How It Is Used
+
+| Data | Collected by | Purpose | Stored where |
+|---|---|---|---|
+| Game progress (coins, stars, unlocked levels, palette, settings) | The App | To save your progress between sessions | On your device, plus your Google Play Games account if you sign in |
+| Play Games player ID and saved game | Google Play Games Services | To sign you in and keep a cloud copy of your progress | Google's servers |
+| Advertising ID, device information, IP address, ad interactions | Google AdMob | To show, measure and limit ads, and to prevent ad fraud | Google's servers |
+| Purchase records | Google Play Billing | To process and restore in-app purchases | Google's servers |
+
+We do not collect your name, email address, contacts, photos, precise location or any other personal information. We do not sell personal data, and we do not share any data with third parties other than the Google services named in this policy.
+
+## How We Handle and Protect Your Data
+
+- **Local data is private.** Your game progress is saved in the App's private storage, which other apps cannot read, and the save file is encrypted. It is excluded from device backups.
+- **Cloud saves are optional.** Progress is copied to the cloud only if you sign in with Google Play Games, and it is stored in your own Google account, not on servers of ours.
+- **Data in transit is encrypted.** Data that Google Play Games Services, Google AdMob and Google Play Billing collect is sent directly from your device to Google over encrypted connections (HTTPS/TLS). It never passes through servers of ours, because we do not operate any.
+- **Purchases are verified securely.** Purchase receipts are checked on your device against Google Play's digital signature. We never see or store payment details.
+- **Minimal access.** The App requests only the permissions it needs to run, show ads and process purchases. It does not request access to your camera, microphone, contacts, files or location.
+- **Third-party security.** Data held by Google is protected under Google's own security practices and [Privacy Policy](https://policies.google.com/privacy).
+
+## Your Choices
+
+- **Ad consent:** you can review or change your ad consent at any time in the App under **Shop → Privacy & Ad Choices**.
+- **Advertising ID:** you can reset or delete your advertising ID, or opt out of personalized ads, in your device's settings (**Settings → Google → Ads** or **Settings → Privacy → Ads**, depending on the device).
+- **Cloud save:** signing in to Google Play Games is optional. You can manage or delete your Play Games data in the Google Play Games app or your Google account.
+- **Deleting your data:** uninstalling the App or clearing its data deletes all game progress stored on your device.
 
 ## Advertising — Google AdMob
 
@@ -23,7 +50,7 @@ For more information on how Google collects and processes data through AdMob, se
 
 ## Google Play Games Services
 
-If you choose to sign in with Google Play Games, the App uses **Google Play Games Services** to enable features such as saving progress to the cloud, leaderboards, or achievements. This is governed by Google's own [Privacy Policy](https://policies.google.com/privacy) and [Play Games Services Terms](https://developers.google.com/games/services/terms).
+If you choose to sign in with Google Play Games, the App uses **Google Play Games Services** to save your progress to the cloud. This is governed by Google's own [Privacy Policy](https://policies.google.com/privacy) and [Play Games Services Terms](https://developers.google.com/games/services/terms).
 
 ## Google Play Billing
 
